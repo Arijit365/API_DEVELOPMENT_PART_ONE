@@ -1,0 +1,33 @@
+{
+    "user1":{
+        "name": "#",
+        "id":1
+    },
+    "user2":{
+        "name": "#",
+        "id":1
+    },
+    "user3":{
+        "name": "#",
+        "id":1
+    },
+    "user4":{
+        "name": "#",
+        "id":1
+    },
+    "product":{
+        "type":"#",
+        "quantity":{
+            "type":"numerical"
+        },
+       "distributor":{
+
+       },
+       "Buyer":{
+
+       },
+       "customer":{
+
+       }
+}
+}
